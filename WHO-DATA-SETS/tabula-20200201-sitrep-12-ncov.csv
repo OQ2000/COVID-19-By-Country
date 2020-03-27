@@ -1,0 +1,91 @@
+Province/Region/City,Confirmed Cases
+Hubei,7153
+Zhejiang,599
+Guangdong,520
+Henan,422
+Hunan,389
+Anhui,297
+Jiangxi,286
+Chongqing,238
+Sichuan,207
+Jiangsu,202
+Shandong,202
+Beijing,156
+Shanghai,153
+Fujian,144
+Shaanxi,101
+Guangxi,100
+Hebei,96
+Yunnan,91
+Heilongjiang,80
+Liaoning,60
+Hainan,57
+Shanxi,47
+Gansu,35
+Tianjin,34
+Guizhou,29
+Ningxia,26
+Inner Mongolia,23
+Xinjiang,18
+Jilin,17
+Hong Kong SAR,13
+Taipei,10
+Qinghai,8
+Macau SAR,7
+Xizang,1
+Total,11821
+WHO Regional Office,Country/Territory/Area,Confirmed Cases
+"",,
+"",China*,11821
+"",,
+"",Japan,17
+"",,
+"",Republic of Korea,12
+"",,
+"",,
+"",Viet Nam,6
+"",,
+"",Singapore,16
+"",,
+"",Australia,12
+"",,
+"",Malaysia,8
+"",,
+"",Cambodia,1
+"",,
+"",Philippines,1
+"",,
+"",Thailand,19
+"",,
+"",Nepal,1
+South-East Asia,,
+"",,
+"",Sri Lanka,1
+"",,
+"",India,1
+"",,
+"",United States of America,7
+Region of the Americas,,
+"",,
+"",Canada,4
+"",,
+"",France,6
+"",,
+"",Finland,1
+"",,
+"",Germany,7
+"",,
+"",Italy,2
+European Region,,
+"",,
+"",Russian Federation,2
+"",,
+"",Spain,1
+"",,
+"",Sweden,1
+"",,
+"",United Kingdom,2
+"",,
+Eastern Mediterranean,United Arab Emirates,4
+"",,
+Total Confirmed cases,Total,11953

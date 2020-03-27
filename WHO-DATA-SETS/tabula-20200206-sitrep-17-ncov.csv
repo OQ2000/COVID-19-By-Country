@@ -1,0 +1,90 @@
+Province/Region/City,Confirmed Cases
+Hubei,19 665
+Zhejiang,954
+Guangdong,944
+Henan,851
+Hunan,711
+Anhui,591
+Jiangxi,600
+Chongqing,389
+Jiangsu,373
+Sichuan,321
+Shandong,343
+Beijing,274
+Shanghai,254
+Fujian,215
+Heilongjiang,227
+Shaanxi,173
+Guangxi,168
+Hebei,157
+Yunnan,128
+Hainan,100
+Liaoning,89
+Shanxi,90
+Tianjin,70
+Gansu,62
+Guizhou,69
+Jilin,59
+Inner Mongolia,46
+Ningxia,40
+Xinjiang,36
+Hong Kong SAR,21
+Qinghai,18
+Taipei and environs,11
+Macao SAR,10
+Xizang,1
+Total,28 060
+"",,,Total,,,
+"",,,Total (new) cases,Total (new),,
+"",,(new),,,,
+"",,,with    possible,cases with site,,
+"",Confirmed*,cases with,Total (new),,,
+WHO Region,Country/Territory/Area,or confirmed,of transmission,,,
+"",(new) cases,travel,deaths,,,
+"",,transmission,under,,,
+"",,history to,,,,
+"",,,outside of China†,investigation,,
+"",,China,,,,
+"",,,,,,
+"",China‡,28 060(3697),,,,564 (73)
+"",Singapore,28 (4),21 (1),7 (3),0 (0),0
+Western Pacific Region,,,,,,
+"",Japan,25 (2),21 (1),4 (1),0,0
+"",,,,,,
+"",Republic of Korea,23 (5),10 (1),11 (3),2 (1),0
+"",,,,,,
+"",Australia,14 (1),14 (1),0 (0),0 (0),0
+"",Malaysia,12 (2),9 (2),2 (0),1 (0),0
+"",,,,,,
+"",Viet Nam,10 (0),7 (0),3 (0),0 (0),0
+"",,,,,,
+"",Philippines,3 (0),2 (0),0 (0),1 (0),1
+"",,,,,,
+"",Cambodia,1 (0),1 (0),0 (0),0 (0),0
+"",Thailand,25 (0),21 (0),4 (0),0 (0),0
+"",India,3 (0),3 (0),0 (0),0 (0),0
+South-East Asia Region,,,,,,
+"",Nepal,1 (0),1 (0),0 (0),0 (0),0
+"",,,,,,
+"",Sri Lanka,1 (0),1 (0),0 (0),0 (0),0
+"","United States ofAmerica",12 (1),10 (1),2 (0),0 (0),
+"",,,,,0,
+Region of the Americas,,,,,,
+"",,,,,,
+"",Canada,5 (0),3 (0),0 (0),2 (0),0
+"",Germany,12 (0),2 (0),10 (0),0 (0),0
+"",France,6 (0),5 (0),1 (0),0 (0),0
+"",Italy,2 (0),2 (0),0 (0),0 (0),0
+"",Russian Federation,2 (0),2 (0),0 (0),0 (0),0
+European Region,The United Kingdom,2 (0),1 (0),1 (0),0 (0),0
+"",Belgium,1 (0),1 (0),0 (0),0 (0),0
+"",Finland,1 (0),1 (0),0 (0),0 (0),0
+"",Spain,1 (0),0 (0),1§ (0),0 (0),0
+"",Sweden,1 (0),1 (0),0 (0),0 (0),0
+Eastern Mediterranean,United Arab Emirates,5 (0),5 (0),0 (0),0 (0),
+"",,,,,0,
+Region,,,,,,
+"",,,,,,
+"","Cases on aninternationalconveyance (Japan)",20**(10),0(0),0(0),20 (10),
+Other,0,,,,,
+"",,,,,,

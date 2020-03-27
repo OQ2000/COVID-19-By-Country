@@ -1,0 +1,86 @@
+Province/Region/City,Confirmed Cases
+Hubei,24 953
+Guangdong,1075
+Zhejiang,1048
+Henan,981
+Hunan,803
+Anhui,733
+Jiangxi,698
+Jiangsu,439
+Chongqing,426
+Shandong,407
+Sichuan,363
+Beijing,315
+Heilongjiang,282
+Shanghai,281
+Fujian,239
+Shaanxi,195
+Hebei,195
+Guangxi,183
+Yunnan,138
+Hainan,123
+Shanxi,104
+Liaoning,99
+Guizhou,89
+Tianjin,81
+Gansu,71
+Jilin,69
+Inner Mongolia,50
+Ningxia,45
+Xinjiang,42
+Hong Kong SAR,26
+Qinghai,18
+Taipei and environs,16
+Macao SAR,10
+Xizang,1
+Total,34 598
+"",,,Total,,,
+"",,,Total (new) cases,Total (new),,
+"",,(new),,,,
+"",,,with    possible,cases with site,,
+"",Confirmed*,cases with,Total (new),,,
+WHO Region,Country/Territory/Area,or confirmed,of transmission,,,
+"",(new) cases,travel,deaths,,,
+"",,transmission,under,,,
+"",,history to,,,,
+"",,,outside of China†,investigation,,
+"",,China,,,,
+"",,,,,,
+"",China‡,34 598 (3401),,,,723 (86)
+"",Singapore,33 (3),21 (0),12 (3),0 (0),0 (0)
+Western Pacific Region,,,,,,
+"",Japan,25 (0),21 (0),4 (0),0 (0),0 (0)
+"",,,,,,
+"",Republic of Korea,24 (0),11 (0),11 (0),2 (0),0 (0)
+"",Australia,15 (0),15 (0),0 (0),0 (0),0 (0)
+"",Malaysia,15 (1),9 (0),4 (0),2 (1),0 (0)
+"",,,,,,
+"",Viet Nam,13 (1),8 (1),5 (0),0 (0),0 (0)
+"",,,,,,
+"",Philippines,3 (0),2 (0),0 (0),1 (0),1 (0)
+"",,,,,,
+"",Cambodia,1 (0),1 (0),0 (0),0 (0),0 (0)
+"",Thailand,32 (7),22 (1),6 (2),4 (4),0 (0)
+"",India,3 (0),3 (0),0 (0),0 (0),0 (0)
+South-East Asia Region,,,,,,
+"",Nepal,1 (0),1 (0),0 (0),0 (0),0 (0)
+"",,,,,,
+"",Sri Lanka,1 (0),1 (0),0 (0),0 (0),0 (0)
+"","United States ofAmerica",12 (0),10 (0),2 (0),0 (0),
+Region of the Americas,0 (0),,,,,
+"",Canada,7 (0),6 (0),0 (0),1 (0),0 (0)
+"",Germany,14 (1),3 (1),11 (0),0 (0),0 (0)
+"",France,6 (0),5 (0),1 (0),0 (0),0 (0)
+"",Italy,3 (0),3 (0),0 (0),0 (0),0 (0)
+"",The United Kingdom,3 (0),1 (0),2*** (0),0 (0),0 (0)
+European Region,Russian Federation,2 (0),2 (0),0 (0),0 (0),0 (0)
+"",Belgium,1 (0),1 (0),0 (0),0 (0),0 (0)
+"",Finland,1 (0),1 (0),0 (0),0 (0),0 (0)
+"",Spain,1 (0),0 (0),1§ (0),0 (0),0 (0)
+"",Sweden,1 (0),1 (0),0 (0),0 (0),0 (0)
+Eastern Mediterranean,United Arab Emirates,7 (2),5 (0),0 (0),2 (2),
+Region,0 (0),,,,,
+"","Internationalconveyance (Japan)",64** (3),0 (0),0 (0),64 (3),
+Other,,,,,,
+0 (0),,,,,,
+"",,,,,,
