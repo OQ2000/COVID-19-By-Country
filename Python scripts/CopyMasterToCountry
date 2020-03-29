@@ -1,57 +1,91 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T17:26:32.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="DQo5I4QlUd1y_0vTuiUv" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T17:41:40.616Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="qfM0-g2LHWb8OFjwiPM_" version="12.9.3" type="github">
   <diagram id="N0dZdcUXHV95d0GOdZie" name="Page-1">
-    <mxGraphModel dx="1822" dy="762" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2222" dy="762" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y2gymAyaAgrrCiZC3UHI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y2gymAyaAgrrCiZC3UHI-1" target="Y2gymAyaAgrrCiZC3UHI-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2gymAyaAgrrCiZC3UHI-1" value="START&lt;br&gt;UserInput_FilePath" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Y2gymAyaAgrrCiZC3UHI-1" value="def&lt;br&gt;UserInput()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y2gymAyaAgrrCiZC3UHI-10" value="Return FilePath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y2gymAyaAgrrCiZC3UHI-10" target="fzSPMsWu_ZDmDj4uhvWd-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2gymAyaAgrrCiZC3UHI-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y2gymAyaAgrrCiZC3UHI-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Y2gymAyaAgrrCiZC3UHI-10" value="Assign FilePath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2gymAyaAgrrCiZC3UHI-11" target="Y2gymAyaAgrrCiZC3UHI-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2gymAyaAgrrCiZC3UHI-11" value="File directory of the master file" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2gymAyaAgrrCiZC3UHI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y2gymAyaAgrrCiZC3UHI-19" target="Y2gymAyaAgrrCiZC3UHI-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2gymAyaAgrrCiZC3UHI-19" value="START&lt;br&gt;Start_Program" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Y2gymAyaAgrrCiZC3UHI-19" value="def&lt;br&gt;Start_Program()" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-285" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2gymAyaAgrrCiZC3UHI-20" target="fzSPMsWu_ZDmDj4uhvWd-1">
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2gymAyaAgrrCiZC3UHI-20" target="Y2gymAyaAgrrCiZC3UHI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y2gymAyaAgrrCiZC3UHI-20" value="FilePath = UserInput_FilePath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="199" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-1" value="StartRow = UserInput_FilePath" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-210" y="300" width="250" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-4" target="fzSPMsWu_ZDmDj4uhvWd-7">
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2gymAyaAgrrCiZC3UHI-20" target="fzSPMsWu_ZDmDj4uhvWd-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-4" value="START&lt;br&gt;UserInput_Row" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="Y2gymAyaAgrrCiZC3UHI-20" value="FilePath, StartRow&amp;nbsp;= UserInput()" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-350" y="189" width="250" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-5" value="Return StartRow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="300" width="120" height="60" as="geometry" />
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-5" value="Return FilePath, StartRow" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-7" target="fzSPMsWu_ZDmDj4uhvWd-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fzSPMsWu_ZDmDj4uhvWd-7" value="Row to start from" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-14" target="fzSPMsWu_ZDmDj4uhvWd-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-14" value="Next Country = GetNextCountry(StartRow)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="290" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-18" target="fzSPMsWu_ZDmDj4uhvWd-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-18" value="def GetNextCountry()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-20" target="fzSPMsWu_ZDmDj4uhvWd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-20" value="Open Master" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-26" target="fzSPMsWu_ZDmDj4uhvWd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-26" value="Open Sheet" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-28" target="fzSPMsWu_ZDmDj4uhvWd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-28" value="Cell = StartRow:CountryNameColumn" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="550" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fzSPMsWu_ZDmDj4uhvWd-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-22" value="Use Row To Start From As While In Range Counter To&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fzSPMsWu_ZDmDj4uhvWd-33" value="Search[Cell]" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
