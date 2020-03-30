@@ -14,6 +14,7 @@ Excell dashboard
 ////////////////////Python scripts////////////////////
 Any scripts used to help with the creation of the project
 
+<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/OQ2000/COVID-19-By-Country">
