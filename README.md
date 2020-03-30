@@ -18,7 +18,7 @@ Any scripts used to help with the creation of the project
 <br />
 <p align="center">
   <a href="https://github.com/OQ2000/COVID-19-By-Country">
-    <img src="Images/FolderLogo.png" alt="Logo" width="80" height="80">
+    <img src="Images/FolderLogo.jpg" alt="Logo" width="80" height="80">
   </a>
     <h3 align="center">COVID-19-By-Country</h3>
 
