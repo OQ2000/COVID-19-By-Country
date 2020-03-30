@@ -23,15 +23,15 @@ Any scripts used to help with the creation of the project
     <h3 align="center">COVID-19-By-Country</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    This is an open source collection of the world health organisation data on COVID-19
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/OQ2000/COVID-19-By-Country"><strong>Main Repository</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/OQ2000/COVID-19-By-Country/tree/master/Datasets">Datasets</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/OQ2000/COVID-19-By-Country/tree/master/Excel">Excel</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/OQ2000/COVID-19-By-Country/tree/master/Python%20scripts">Python scripts</a>
   </p>
 </p>
