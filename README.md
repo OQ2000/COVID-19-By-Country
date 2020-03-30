@@ -5,7 +5,7 @@
   <a href="https://github.com/OQ2000/COVID-19-By-Country">
     <img src="Images/FolderLogo.jpg" alt="Logo" width="80" height="80">
   </a>
-    <h3 align="center"><strong>COVID-19-By-Country</strong></h3>
+    <h2 align="center"><strong>COVID-19-By-Country</strong></h2>
   <p align="center">
     This is an open source collection of the world health organisation data on COVID-19
     <br />
