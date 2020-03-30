@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/OQ2000/COVID-19-By-Country">
-    <img src="Images/FolderLogo.jpg" alt="Logo" width="80" height="80">
+    <img src="Images/FolderLogo.jpg" alt="Logo" width="150" height="150">
   </a>
     <h1 align="center"><strong>COVID-19-By-Country</strong></h1>
   <p align="center">
