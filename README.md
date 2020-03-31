@@ -45,7 +45,7 @@ Temp holder for information
 All contributions are welcome, feel free to create pull requests.
 If your thinking of a large change, please open an <strong>[Issue](https://github.com/OQ2000/COVID-19-By-Country/issues)</strong> first to discuss why and how this can be done
 ## Credits <a name="Credits"></a>
-General Automation And All Python Scripts--- [<strong>Owen Quinn</strong>](https://www.linkedin.com/in/owen-quinn/)
+General Automation And All Python Scripts--- [<strong>Owen Quinn</strong>](https://www.linkedin.com/in/owen-quinn/)<br />
 Database And Data Normalization --- [<strong>Oisín Cassidy Dawson</strong>](https://www.linkedin.com/in/oisincassidydawson179/)
 ## License <a name="Licence"></a>
 [MIT](https://choosealicense.com/licenses/mit/)
