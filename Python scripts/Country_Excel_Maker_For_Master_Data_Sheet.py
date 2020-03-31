@@ -63,12 +63,14 @@ def CheckIfExcelFileForCountryExists(MasterFilePath, CountryFolderFilePath, Chec
         wb.save(CountryFilePath)
         print(CountryFilePath)
         wb1 = load_workbook(CountryFilePath)
-        sheet = Masterwb["MainSheet"]
+        sheet = Masterwb["Datasets"]
         sheet1 = wb1[CheckingCountryName]
-        for row in sheet['A1':'Z1']:
+        for row in sheet['A1':'T1']:
             for cell in row:
                 sheet1[cell.coordinate].value = cell.value
         wb1.save(CountryFilePath)
+        wb1.save(CountryFilePath)
+
 
 def FindCountryNameColumn(MasterFilePath):
     loc = (MasterFilePath)
@@ -108,7 +110,7 @@ def CopyDataForCheckedCountryName(MasterFilePath,CountryFolderFilePath,CellRef,C
     CheckingCountryName = CheckingCountryName.replace(" ", "_")
     CountryFilePath = CountryFolderFilePath+'\\'+str(CheckingCountryName)+'.xlsx'
     wb1 = load_workbook(CountryFilePath)
-    sheet = wb["MainSheet"]
+    sheet = wb["Datasets"]
     sheet1 = wb1[CheckingCountryName]
     StartCell = "a"+CellRef
     EndCell = MaxRows + CellRef
@@ -135,6 +137,7 @@ def CopyDataForCheckedCountryName(MasterFilePath,CountryFolderFilePath,CellRef,C
             for cell in row:
                 tmpColumn = ConvertNumberToLetter(cell.column-1)
                 sheet1[tmpColumn+str(NextEmptyCell)].value = cell.value
+        wb1.save(CountryFilePath)
         wb1.save(CountryFilePath)
         return TotalRecordsAdded
     else:
@@ -201,7 +204,7 @@ def Start_Program():
                 clear()
     
     else:
-        CurrentRow = 1
+        CurrentRow = 0
         if CurrentRow == 0 or CurrentRow == 1:
             CurrentRow = 2
         MasterFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\Master-DATA-SET.xlsm"
@@ -210,7 +213,7 @@ def Start_Program():
         wbook = xlrd.open_workbook(MasterFilePath)
         sheet = wbook.sheet_by_index(0)
         wb = load_workbook(MasterFilePath, data_only=True)
-        sh = wb["MainSheet"]
+        sh = wb["Datasets"]
         sheet = wbook.sheet_by_index(0)
         for i in range(sheet.nrows):
             i = i + 1
