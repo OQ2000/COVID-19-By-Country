@@ -6,3 +6,8 @@ lines On Master File To Be Fixed
 3974
 3988
 3808
+
+Add The lastes WHO Sit_reps
+Formating python script
+Add find and replace to excel file
+Calculations python script for each country file
