@@ -1,6 +1,7 @@
 import os
 import os.path
 import sys
+from time import sleep
 import webbrowser
 import datetime
 from datetime import time, date, timedelta
@@ -20,6 +21,9 @@ totalFormatted = 0
 
 def GetAllFiles():
     AllFiles = os.listdir(r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\SeperateCountryFiles")
+    print("Found",len(AllFiles),"Files")
+    print("Formatting All")
+    sleep(2)
     return AllFiles
 
 def ConvertNumberToLetter(CheckingNumber):
@@ -106,6 +110,10 @@ def Calulations(sheet, sheet1, MaxRows):
             pass
         elif cell.row == 2:
             cell.value = TotalDeaths[1]
+        elif TotalDeaths[tmpx] == "N/R":
+            cell.value = 0
+        elif TotalDeaths[tmpx-1] == "N/R":
+            cell.value = 0
         else:
             cell.value = int(TotalDeaths[tmpx]) - int(TotalDeaths[tmpx-1])
         tmpx = tmpx +1

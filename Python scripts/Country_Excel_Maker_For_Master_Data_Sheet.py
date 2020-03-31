@@ -70,6 +70,8 @@ def CheckIfExcelFileForCountryExists(MasterFilePath, CountryFolderFilePath, Chec
                 sheet1[cell.coordinate].value = cell.value
         wb1.save(CountryFilePath)
         wb1.save(CountryFilePath)
+        wb1.save(CountryFilePath)
+
 
 
 def FindCountryNameColumn(MasterFilePath):
@@ -137,6 +139,7 @@ def CopyDataForCheckedCountryName(MasterFilePath,CountryFolderFilePath,CellRef,C
             for cell in row:
                 tmpColumn = ConvertNumberToLetter(cell.column-1)
                 sheet1[tmpColumn+str(NextEmptyCell)].value = cell.value
+        wb1.save(CountryFilePath)
         wb1.save(CountryFilePath)
         wb1.save(CountryFilePath)
         return TotalRecordsAdded
