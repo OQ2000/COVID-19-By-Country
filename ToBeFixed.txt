@@ -1,16 +1,4 @@
-lines On Master File To Be Fixed
-4044
-4042
-4186
-2923
-3974
-3988
-3808
-
-X Add The lastes WHO Sit_reps
-Formating python script
-Add find and replace to excel file
-Calculations python script for each country file
+Used In Master Excel File For Find And Replace Script:
 
 fndList = Array("Republic of Korea", "Viet*", "*Lao People's*", "The United Kingdom", "Russian Federation", "Kosovo*", "Iran*", 
 "United States of*", "United States Virgin*", "Turks and Caicos*", "Democratic Republic*", "United Republic of*", "Central African*", 
