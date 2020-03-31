@@ -11,3 +11,6 @@ Add The lastes WHO Sit_reps
 Formating python script
 Add find and replace to excel file
 Calculations python script for each country file
+
+Find("Republic of Korea", "Viet*", "*Lao People's*", "The United Kingdom", "Russian Federation", "Kosovo*", "Iran*", "United States of*", "United States Virgin*", "Turks and Caicos*", "Democratic Republic*", "United Republic of*", "Central African*", "Cabo Verde", "*Diamond Princess*")
+Replace("South Korea","Vietnam", "Laos",  "United Kingdom", "Russia", "Kosovo", "Iran", "United States of America", "United States Virgin Islands", "Turks and Caicos Islands", "Congo", "Tanzania", "Central African Republic","Cape Verde", "Diamond Princess")
