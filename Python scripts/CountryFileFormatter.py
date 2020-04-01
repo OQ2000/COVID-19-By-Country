@@ -58,7 +58,7 @@ def ConvertNumberToLetter(CheckingNumber):
     return NumberToLetter[CheckingNumber]
 
 def DateFormatter(CheckingCountry, wbook, sheet1, MaxRows):
-    for cell in sheet1["D"]:
+    for cell in sheet1["E"]:
         cell.number_format = "yyyy-mm-dd;"
 
 def GlobalFormatter(sheet1, sheet,MaxRows):
