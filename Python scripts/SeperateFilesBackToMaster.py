@@ -12,7 +12,7 @@ import string
 clear = lambda: os.system('cls')
 clear()
 totalCorrected = 0
-SeperateCountryFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\ToBeAddedCalculations/"
+SeperateCountryFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\SeperateCountryFiles/"
 
 def GetAllFiles(SeperateCountryFilePath):
     AllFiles = os.listdir(SeperateCountryFilePath)
@@ -59,10 +59,9 @@ def Main(AllFiles,SeperateCountryFilePath):
                 MasterSheet["H"+str(RowRef[r])].value = CasesToCopy[r]
                 #Deaths
                 MasterSheet["J"+str(RowRef[r])].value = DeathsToCopy[r]
-                print("Copying To Cell","J"+str(RowRef[r]),"And","H"+str(RowRef[r]))
-                print("Data:",CasesToCopy[r],"And",DeathsToCopy[r])
                 r = r + 1
                 print("Saving Master Document, This May Take A While")
+                print("No Of Files Left",str(LenAllFiles-i))
             MasterWorkBook.save(MasterFile)
             RowRef = []
             CasesToCopy = []
@@ -83,10 +82,7 @@ def Main(AllFiles,SeperateCountryFilePath):
         sheet1 = wb1[CheckingCountry]
         RowRef, CasesToCopy, DeathsToCopy = CopyingData(RowRef,CasesToCopy,DeathsToCopy,RowNum,sheet1,sheet)
         clear()
-        print("All Vairables")
-        print("Cases To Copy",CasesToCopy)
-        print("Deaths To Copy",DeathsToCopy)
-        print("RowRef",RowRef)
+        print("Counter:",counter)
         counter = counter + 1
 
         # for r in range(MaxRows):

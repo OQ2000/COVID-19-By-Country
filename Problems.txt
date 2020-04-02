@@ -1,7 +1,0 @@
-South_Korea------RowNo.837
-Thailand------RowNo.845
-United_Arab_Emirates------RowNo.875
-United_Kingdom------RowNo.855
-United_States_Of_America------RowNo.810
-United_States_Of_America------RowNo.849
-Vietnam------RowNo.842

@@ -210,7 +210,7 @@ def Start_Program():
         CurrentRow = 0
         if CurrentRow == 0 or CurrentRow == 1:
             CurrentRow = 2
-        MasterFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\Master-DATA-SET.xlsm"
+        MasterFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\Master-DATA-SET.xlsx"
         CountryFolderFilePath = r"C:\Users\gunsl_000\Desktop\COVID-19 By Country\COVID-19-By-Country\Datasets\SeperateCountryFiles"
         CheckingCountryName = ""
         wbook = xlrd.open_workbook(MasterFilePath)
