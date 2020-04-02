@@ -60,8 +60,8 @@ def Main(AllFiles,SeperateCountryFilePath):
                 #Deaths
                 MasterSheet["J"+str(RowRef[r])].value = DeathsToCopy[r]
                 r = r + 1
-                print("Saving Master Document, This May Take A While")
-                print("No Of Files Left",str(LenAllFiles-i))
+            print("Saving Master Document, This May Take A While")
+            print("No Of Files Left",str(LenAllFiles-i))
             MasterWorkBook.save(MasterFile)
             RowRef = []
             CasesToCopy = []
@@ -106,7 +106,9 @@ def Main(AllFiles,SeperateCountryFilePath):
         r = r + 1
         print("Saving Master Document, This May Take A While")
     MasterWorkBook.save(MasterFile)
+    return MasterWorkBook, MasterFile
     # MasterWorkBook.save(MasterFile)
     
 AllFiles = GetAllFiles(SeperateCountryFilePath)
-Main(AllFiles,SeperateCountryFilePath)
+MasterWorkBook, MasterFile = Main(AllFiles,SeperateCountryFilePath)
+MasterWorkBook.save(MasterFile)
