@@ -8,3 +8,8 @@ fndList = Array("Republic of Korea", "Viet*", "*Lao People's*", "The United King
 rplcList = Array("South Korea", "Vietnam", "Laos", "United Kingdom", "Russia", "Kosovo", "Iran", "United States of America", 
 "United States Virgin Islands", "Turks and Caicos Islands", "Congo", "Tanzania", "Central African Republic", "Cape Verde", "Diamond Princess", 
 "Northern Mariana Islands", "Diamond Princess", "Bolivia", "Bosnia", "Côte_D’ivoire", "Côte_D’ivoire", "Curaçao", "Saint_Barthélemy")
+
+
+to Be Done
+Need to get new seperate country files based on error found during criteria search
+files must be updated and calculation checks must be carried out again.
