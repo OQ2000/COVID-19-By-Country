@@ -7,7 +7,6 @@ import random
 from pyautogui import press, hotkey, typewrite, keyDown, keyUp
 
 sleep(2)
-
 def start_Program():
     i = 2
     x = 0

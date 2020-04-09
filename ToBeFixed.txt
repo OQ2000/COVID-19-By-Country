@@ -9,3 +9,5 @@ rplcList = Array("South Korea", "Vietnam", "Laos", "United Kingdom", "Russia", "
 "United States Virgin Islands", "Turks and Caicos Islands", "Congo", "Tanzania", "Central African Republic", "Cape Verde", "Diamond Princess", 
 "Northern Mariana Islands", "Diamond Princess", "Bolivia", "Bosnia", "Côte_D’ivoire", "Côte_D’ivoire", "Curaçao", "Saint_Barthélemy")
 
+
+Dominca needs to be added to countryID
