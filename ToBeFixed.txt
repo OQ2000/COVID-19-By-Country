@@ -1,11 +1,8 @@
-Used In Master Excel File For Find And Replace Script:
-
-fndList = Array("Republic of Korea", "Viet*", "*Lao People's*", "The United Kingdom", "Russian Federation", "Kosovo*", "Iran*", 
-"United States of*", "United States Virgin*", "Turks and Caicos*", "Democratic Republic*", "United Republic of*", "Central African*", 
-"Cabo Verde", "*Diamond Princess*", "Northern Mariana Islands*", "*?nternational ?onveyance*", "Bolivia*", "Bosnia*", "Cote_D’ivoire", 
-"Cote_D_Ivoire", "Curacao", "Saint_Barthelemy")
-
-rplcList = Array("South Korea", "Vietnam", "Laos", "United Kingdom", "Russia", "Kosovo", "Iran", "United States of America", 
-"United States Virgin Islands", "Turks and Caicos Islands", "Congo", "Tanzania", "Central African Republic", "Cape Verde", "Diamond Princess", 
-"Northern Mariana Islands", "Diamond Princess", "Bolivia", "Bosnia", "Côte_D’ivoire", "Côte_D’ivoire", "Curaçao", "Saint_Barthélemy")
-
+To Be Added
+	Master Data Set
+		CountryID
+			All Need Data
+				Dominican Republic
+				Dominica
+				Bonaire, Sint Eustatius and Saba
+				Falkland Islands
