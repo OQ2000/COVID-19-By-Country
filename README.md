@@ -9,7 +9,7 @@ As of April 14th 2020, this repo is no longer maintained.
 <br />
 <p align="center">
   <a href="https://github.com/OQ2000/COVID-19-By-Country">
-    <img src="Images/FolderLogo.jpg" alt="Logo" width="150" height="150">
+    <img src="Images/FolderLogo.png" alt="Logo" width="150" height="150">
   </a>
     <h1 align="center"><strong>COVID-19-WHO-DataSet</strong></h1>
   <p align="center">
