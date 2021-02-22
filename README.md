@@ -1,5 +1,5 @@
 ## NOTICE
-As of April 14th 2020, this repo is no longer updataded.
+As of April 14th 2020, this repo is no longer maintained.
 
 <p align = center>
 <a href="https://github.com/OQ2000/COVID-19-By-Country/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/OQ2000/COVID-19-By-Country"></a>
