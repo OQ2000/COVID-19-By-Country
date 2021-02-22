@@ -1,4 +1,7 @@
-﻿<p align = center>
+## NOTICE
+As of April 14th 2020, this repo is no longer updataded.
+
+<p align = center>
 <a href="https://github.com/OQ2000/COVID-19-By-Country/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/OQ2000/COVID-19-By-Country"></a>
 <a href="https://github.com/OQ2000/COVID-19-By-Country/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/OQ2000/COVID-19-By-Country"></a>
 <a href="https://github.com/OQ2000/COVID-19-By-Country"><img alt="GitHub license" src="https://img.shields.io/github/license/OQ2000/COVID-19-By-Country"></a>
